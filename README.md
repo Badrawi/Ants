@@ -1,3 +1,3 @@
 # Ants
 
-Nothing to see here - please move on.
+run the ant.jar in the TUMCampusApp and input the string as an argument
